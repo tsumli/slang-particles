@@ -1,0 +1,10 @@
+BasedOnStyle: google
+
+# Additional rules can be added below.
+# http://clang.llvm.org/docs/ClangFormatStyleOptions.html
+
+DerivePointerAlignment: false
+PointerAlignment: Left
+IndentWidth: 2
+TabWidth: 2
+ColumnLimit: 100
