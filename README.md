@@ -1,5 +1,8 @@
 # slang-particles
 
+![Tiled rendering](./tiled_n100000.png)
+
+
 ```bash
 # Run the Greedy version
 uv run main.py type=greedy num_particles=100000
