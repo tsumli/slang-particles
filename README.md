@@ -1,4 +1,5 @@
 # slang-particles
+A simple N-body particle simulation/rendering with slangpy
 
 ![Tiled rendering](./tiled_n100000.png)
 
